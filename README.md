@@ -1,12 +1,11 @@
 Sou Lucas, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e back-end. Experiências práticas em diversas tecnologias, que utilizam soluções modernas e eficientes.
 
-Linguagens e Estruturas:
-
 ## 🧰 Tecnologias que utilizam
 
-| Frameworks & Linguagens| Bancos de Dados |
-|-------------------------------
-| <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" largura="40 "título="HTML5 "alt="HTML5 "/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" largura="40 "título=" CSS3 "alt=" CSS3 "/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" largura= "40" título= "JavaScript" alt= "JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" largura= "40" título= "Java" alt= "Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" largura= "40" título= "PHP" alt= "PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" larga= "40" título= "Primavera" alt= "Primavera"/> | <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" largura="40 "título=" MongoDB "alt=" MongoDB "/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" larga= "40" título= "MariaDB" alt= "MariaDB"/> <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB" alt="MariaDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" largura="40 "título="SQL" alt="SQL" /> |
+| Linguagens e Frameworks | Bancos de Dados |
+|-------------------------|-----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring" alt="Spring" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB" alt="MariaDB" /> <img src="https://img.icons8.com/color/50/0000FF/mysql-logo.png" width="40" title="SQL" alt="SQL" /> |
+
 
 
 
