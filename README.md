@@ -9,7 +9,7 @@ Linguagens e Estruturas:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" largura="40"/> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" largura="40"/> Primavera | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" largura="40"/> MariaDB |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" largura="40"/> CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" largura="40"/> PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" largura="40"/> MySQL |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" largura="40"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" largura="40"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" largura="40"/> MongoDB |
-|                  |                    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" largura="40"/> SQL |
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" largura="40"/> SQL |
 
 
 
