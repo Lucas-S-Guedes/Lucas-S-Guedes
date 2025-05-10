@@ -1,7 +1,5 @@
 Sou Lucas, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e back-end. Experiências práticas em diversas tecnologias, que utilizam soluções modernas e eficientes.
 
-🧰 Tecnologias e ferramentas que utilizo
-
 ## 🧰 Tecnologias e ferramentas que utilizo
 |Linguagens|Frameworks|Bancos de Dados|Ferramentas|IDEs|
 |---|---|---|---|---|
