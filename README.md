@@ -27,6 +27,6 @@ Linguagens: Inglês(Avançado)/Português(Nativo)
 📫 Contato:
 Gosto de trocar ideias, aprender com outras pessoas e colaborar em projetos internacionais. Se quiser conversar ou conhecer um pouco mais do que faço, meu GitHub está aberto — e você também pode me chamar pelo e-mail: lucassgpr14@gmail.com.
 
-Obrigado por passar por aqui! Sigo sempre animado para crescer na área e divisão essa paixão pela programação com quem também curte tecnologia.
+Obrigado por passar por aqui! Sigo sempre animado para crescer na área e divido essa paixão pela programação com quem também curte tecnologia.
 
  
