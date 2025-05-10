@@ -1,4 +1,4 @@
-Sou Lucas, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e back-end. Experiências práticas em diversas tecnologias, que utilizam soluções modernas e eficientes.
+ Sou Lucas, estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e back-end. Experiências práticas em diversas tecnologias, que utilizam soluções modernas e eficientes.
 
 ## 🧰 Tecnologias e ferramentas que utilizo
 | **Linguagens**                                                                                                                   | **Frameworks**                                                                                                                | **Bancos de Dados**                                                                                                     | **Ferramentas**                                                                                                         | **IDEs**                                                                                                                        |
@@ -21,8 +21,7 @@ Desenvolvimento orientado a objetos
 
 Integração de APIs e serviços web
 
-💻 Habilidades Técnicas:
-Linguagens: Inglês(Avançado)/Português(Nativo) 
+💻 Linguagens: Inglês(Avançado)/Português(Nativo) 
 
 📫 Contato:
 Gosto de trocar ideias, aprender com outras pessoas e colaborar em projetos internacionais. Se quiser conversar ou conhecer um pouco mais do que faço, meu GitHub está aberto — e você também pode me chamar pelo e-mail: lucassgpr14@gmail.com.
